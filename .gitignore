@@ -3,5 +3,3 @@
 .env
 *.terraform.*
 *.tfstate
-*.png
-*.jpg
