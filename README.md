@@ -5,6 +5,8 @@ Build A Spotify Playlist using Docker and Terraform!
 
 ![bart](/assets/bart.gif)
 
+![diagram](/assets/diagram.png)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Walkthrough](#walkthrough)
