@@ -1,6 +1,8 @@
 # Custom Spotify Playlist Using Terraform!
 
 Build A Spotify Playlist using Docker and Terraform!
+
+
 ![bart](/assets/bart.gif)
 
 ## Table of Contents
