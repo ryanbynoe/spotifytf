@@ -20,7 +20,7 @@ Build A Spotify Playlist using Docker and Terraform!
 - [Vscode](https://code.visualstudio.com)
 
 ## Walkthrough
-I already have a Spotify account so all I needed was to create a Spotify Developer account. A free spotify account will suffice.
+I posess a Spotify account so all I needed was to create a Spotify Developer account. A free spotify account will suffice.
 
 First we need to setup the Spotify provider in order to obtain and use the resources. We will use the spotify provider [here](https://registry.terraform.io/providers/conradludgate/spotify/latest) and pressing the use provider to display code or below. 
 
@@ -47,7 +47,7 @@ provider "spotify" {
 provider.tf file should look like this and we will  add the configuration options later: 
 ![ProviderTF](/assets/providertf.png)
 
-Next we will need an API Key and this will be used to connect with the Spotify account. After creating a free Spotify account, Create a Degveloper account.
+Next we will need an API Key and this will be used to connect with the Spotify account. After creating a free Spotify account, Create a Developer account.
 
 ![createapp](/assets/spotifydev.jpg)
 
